@@ -52,7 +52,7 @@ class Solution {
         while (k > 0 && !pq.isEmpty()) {
             k--;
             Pair p = pq.poll();
-            int sum = p.sum, x = p.i, y = p.j;
+            int x = p.i, y = p.j;
 
             ans.add(Arrays.asList(nums1[x], nums2[y]));
             if (y < m - 1) pq.offer(new Pair(nums1[x] + nums2[y + 1], x, y + 1));
