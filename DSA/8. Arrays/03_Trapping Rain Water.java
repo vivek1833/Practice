@@ -43,7 +43,7 @@ class Solution {
         }
 
         for(int i=0; i<n; i++) {
-            cnt += Math.abs(Math.min(left[i], right[i]) - nums[i]);
+            cnt += Math.abs(nums[i] - Math.min(left[i], right[i]));
         }
 
         return cnt;

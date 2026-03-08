@@ -15,7 +15,7 @@
 - [4. Binary Tree](/DSA/4.%20Binary%20Tree/)
 - [5. BST](/DSA/5.%20BST/)
 - [6. Graph](/DSA/6.%20Graph/)
-- [7. Dynamic Programming](/DSA/7.%20Dynamic%20Programming/)
+- [7. Dynamic Programming](/DSA/7.%20DP/)
 - [8. Arrays](/DSA/8.%20Arrays/)
 - [10. Miscelleneous](/DSA/10.%20Miscelleneous/)
 - [NeetCode150](/DSA/NeetCode150/)
